@@ -1,0 +1,23 @@
+{
+  "name": "sit737-2025-prac5d",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KrishBM/sit737-2025-prac5d.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KrishBM/sit737-2025-prac5d/issues"
+  },
+  "homepage": "https://github.com/KrishBM/sit737-2025-prac5d#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
